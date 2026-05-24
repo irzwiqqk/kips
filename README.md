@@ -37,7 +37,7 @@
 **1. Клонировать репозиторий и запустить установку:**
 # Скачиваем проект с вашего гитхаба
 ```bash
-git clone [https://github.com/irzwiqqk/kips.git](https://github.com/irzwiqqk/kips.git)
+git clone https://github.com/irzwiqqk/kips.git
 ```
 # Переходим в папку проекта
 ```bash
